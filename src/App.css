@@ -1,0 +1,184 @@
+.Kato {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+
+  background: #FAFAFA;
+}
+
+
+.Kato-header {
+  position: absolute;
+  width: 1440px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+
+  background: #2A8BE4
+}
+
+.history{
+  position: absolute;
+width: 340px;
+height: 2131px;
+left: 0px;
+top: 60px;
+
+background: #FFFFFF;
+box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.histTitle{
+  position: absolute;
+width: 142px;
+height: 23px;
+left: 99px;
+top: 101px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #2F2F2F;
+}
+
+.progRep {
+position: absolute;
+width: 123px;
+height: 22px;
+left: 1185px;
+top: 19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+color: #FAFAFA;
+}
+
+.KatoLogo {
+  position: absolute;
+  width: 84px;
+  height: 47.59px;
+  left: 16px;
+  top: 6px; 
+}
+
+
+.studentName{
+  position: absolute;
+width: 372px;
+height: 28px;
+left: 380px;
+top: 98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #2F2F2F;
+
+}
+
+.totalMastery{
+position: absolute;
+width: 91px;
+height: 14px;
+left: 520px;
+top: 180px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
+border: 1px solid black;
+color: #2F2F2F;
+}
+
+.progression{
+  position: absolute;
+  width: 89px;
+  height: 16px;
+  left: 741px;  
+  top: 180px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
+  color: #2F2F2F;
+  
+}
+
+.studyTime{
+  position: absolute;
+  width: 100px;
+  height: 16px;
+  left: 946px;
+  top: 180px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
+  color: #2F2F2F;
+}
+
+.timePerQuestion{
+  position: absolute;
+  width: 136px;
+  height: 16px;
+  left: 1164px;
+  top: 180px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
+  color: #2F2F2F;
+  
+}
+
+.sumValue{
+width: 50px;
+height: 30px;
+left: 540px;
+top: 203px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 30px;
+
+color: #2F2F2F;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+
